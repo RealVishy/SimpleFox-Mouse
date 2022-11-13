@@ -85,12 +85,6 @@ by Miguel Avila
 
 
 /* Tabs elements  */
-.tab-close-button {
-  /* make it transparent */
-  opacity: 0;
-  transition: 0.5s;
-  border-radius: 50%;
-}
 
 .tabbrowser-tab:not([pinned]) .tab-icon-image {
   opacity: 0 !important;
